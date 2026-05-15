@@ -10,8 +10,8 @@ the text in nano before posting.
 
 Installation Requirements:
 - Python 3.x (standard library only - no external dependencies)
-- bsky CLI tool (https://github.com/bluesky-social/bluesky-cli)
-- toot CLI tool (https://github.com/tootcli/toot)
+- bsky CLI tool (https://github.com/harveyrandall/bsky-cli)
+- toot CLI tool (https://github.com/ihabunek/toot)
 - nano editor (typically pre-installed on Unix-like systems)
 
 The tools must be installed and available in the system PATH.
